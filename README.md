@@ -4,7 +4,7 @@
 
 ## features
 realtime screen mirroring, minimal latency, works with usb or wi-fi, and fast startup
-some things like DLL files (avcodec-61.dll, avutil-59.dll, etc.) were taken from the scrcpy program
+, some things like DLL files (avcodec-61.dll, avutil-59.dll, etc.) were taken from the scrcpy program
 
 ## requirements
 adb, ffplay (from ffmpeg package), any android device with debugging feature

@@ -3,16 +3,14 @@
 # mirr0ing, lightweight Android screen mirroring tool via ADB. Simple, fast, no bullshit.
 
 ## features
-
-> realtime screen mirroring, minimal latency, lightweight (200mb~), works with usb or wi-fi, and fast startup :]
+realtime screen mirroring, minimal latency, works with usb or wi-fi, and fast startup
+some things like DLL files (avcodec-61.dll, avutil-59.dll, etc.) were taken from the scrcpy program
 
 ## requirements
-
-> adb, ffplay (from ffmpeg package), any android device with debugging feature
+adb, ffplay (from ffmpeg package), any android device with debugging feature
 
 ## code edits
-
-> if you want change window size or quality, just edit screen.bat
+if you want change window size or quality, just edit screen.bat
 
 ## recommended settings for window size:
 

@@ -3,8 +3,7 @@
 # mirr0ing, lightweight Android screen mirroring tool via ADB. Simple, fast, no bullshit.
 
 ## features
-realtime screen mirroring, minimal latency, works with usb or wi-fi, and fast startup
-, some things like DLL files (avcodec-61.dll, avutil-59.dll, etc.) were taken from the scrcpy program
+realtime screen mirroring, minimal latency, works with usb or wi-fi, and fast startup, some things like DLL files (avcodec-61.dll, avutil-59.dll, etc.) were taken from the scrcpy program
 
 ## requirements
 adb, ffplay (from ffmpeg package), any android device with debugging feature

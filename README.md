@@ -1,2 +1,1 @@
-<img width="1200" height="675" alt="Twitter post - 1" src="https://github.com/user-attachments/assets/d6bf6852-5550-4c9f-9b46-13aecadea662" />
-
+<img width="837" height="331" alt="Twitter post - 1 (1)" src="https://github.com/user-attachments/assets/941b6808-afba-48c6-9c9b-f68a67f19050" />

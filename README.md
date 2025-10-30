@@ -4,15 +4,15 @@
 
 ## features
 
-realtime screen mirroring, minimal latency, lightweight (200mb~), works with usb or wi-fi, and fast startup :]
+> realtime screen mirroring, minimal latency, lightweight (200mb~), works with usb or wi-fi, and fast startup :]
 
 ## requirements
 
-adb, ffplay (from ffmpeg package), any android device with debugging feature
+> adb, ffplay (from ffmpeg package), any android device with debugging feature
 
 ## code edits
 
-if you want change window size or quality, just edit screen.bat
+> if you want change window size or quality, just edit screen.bat
 
 ## recommended settings for window size:
 
